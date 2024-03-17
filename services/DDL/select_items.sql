@@ -1,0 +1,1 @@
+SELECT * FROM public."Items" LIMIT 3; 
